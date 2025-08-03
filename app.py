@@ -60,7 +60,7 @@ if selected == "Home":
     <div class='description'>
         <b>VoltKit</b> is more than just a Python library — it's your digital companion for exploring, learning, and visualizing EE concepts through code and simulations.
         <br><br>
-        Whether you're a 👨‍🎓 student, 👩‍🏫 educator, or ⚙️ engineer, VoltKit helps you:
+        Whether you're a student, educator, or engineer, VoltKit helps you:
         <ul>
             <li>🧮 Simplify circuit calculations (Ohm’s Law, impedance, AC power)</li>
             <li>📡 Generate and analyze signals (sine, square, FFT, harmonics)</li>
